@@ -1,3 +1,4 @@
 text about mars
 line 2 with an additional part
+line 2 with a different addition
 extra line
