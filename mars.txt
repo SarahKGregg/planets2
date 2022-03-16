@@ -1,5 +1,2 @@
 text about mars
-
 line 2
-
-line 3
